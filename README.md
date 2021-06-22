@@ -24,14 +24,14 @@ age = Age (years)
 class = Class variable (1:tested positive for diabetes, 0: tested negative for diabetes)
 
 ## Libraries Used
- numpy
- pandas
- matplotlib.pyplot
-%matplotlib inline
-seaborn 
- sklearn.model_selection import train_test_split
- sklearn.metrics import confusion_matrix
- sklearn import metrics
+ 1) numpy
+ 2)  pandas
+ 3)  matplotlib.pyplot
+ 4)  %matplotlib inline
+ 5)  seaborn 
+ 6)  sklearn.model_selection import train_test_split
+ 7)  sklearn.metrics import confusion_matrix
+ 8)  sklearn import metrics
  
  ## Summary :
 We successfully analysed the Pima-Indians-diabetes data set and ploteed Receiver Operating Characteristic (ROC) Curves Model 2 with Treshold of 0.3 and Sensitivity: 0.8, Specificity: 0.7671232876712328 is the best fit
